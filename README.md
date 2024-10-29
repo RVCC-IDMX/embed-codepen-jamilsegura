@@ -10,5 +10,6 @@
 6. **Carefully insert** the copied code into the empty **section** element inside the index.html file
 
 ### Selected Pen - link to your selected pen
+https://codepen.io/gayane-gasparyan/pen/jOmaBQK
 
-[**INSERT THE PEN TITLE HERE**](https://codepen.io)
+[Magic Card](https://codepen.io/gayane-gasparyan/pen/jOmaBQK)
